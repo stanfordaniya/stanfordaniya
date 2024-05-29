@@ -1,5 +1,5 @@
 ## ✨ About Me:
-🔭 Welcome! My name is Aniya Stanford, I'm majoring in Computer Science at Kennesaw State University. I'm currently in the process of developing new projects as well as working on my website. Feel free to take a look around :)
+🔭 Welcome! My name is Aniya Stanford, I'm majoring in Information Technology, Ex- CS Major (2022-2024) at Kennesaw State University. I'm currently in the process of developing new projects as well as working on my website. Feel free to take a look around :)
 
 
 
