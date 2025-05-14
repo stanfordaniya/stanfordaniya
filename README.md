@@ -5,7 +5,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stanfordaniya) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@aniyas7723) 
 [![](https://visitcount.itsvg.in/api?id=stanfordaniya&label=Profile%20Views&color=2&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
