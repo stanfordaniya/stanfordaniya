@@ -18,7 +18,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # 📊 GitHub Stats:
-![Aniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanfordaniya&theme=shadow_red&show_icons=true)<br/>
+![Aniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanfordaniya&theme=midnight-purple&show_icons=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanfordaniya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
