@@ -2,7 +2,6 @@
 🔭 Welcome! My name is Aniya Stanford, I'm majoring in Information Technology, Ex- CS Major (2022-2024) at Kennesaw State University. I'm currently in the process of developing new projects. Feel free to take a look around my GitHub :)
 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stanfordaniya) 
 [![](https://visitcount.itsvg.in/api?id=stanfordaniya&label=Profile%20Views&color=2&icon=4&pretty=false)](https://visitcount.itsvg.in)
@@ -16,6 +15,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 # 📊 GitHub Stats:
 ![Aniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanfordaniya&theme=midnight-purple&show_icons=true)<br/>
