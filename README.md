@@ -18,9 +18,9 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 # 📊 GitHub Stats:
-![Aniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanfordaniya&theme=midnight-purple&show_icons=true&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanfordaniya&layout=compact&theme=midnight-purple&hide_border=false)
+![GitHub followers](https://img.shields.io/github/followers/stanfordaniya?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/stanfordaniya?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=stanfordaniya&style=for-the-badge)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stanfordaniya&theme=discord&no-frame=false&no-bg=true&margin-w=4)
