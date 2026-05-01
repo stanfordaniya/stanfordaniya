@@ -18,7 +18,7 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 # 📊 GitHub Stats:
-![Aniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanfordaniya&show_icons=true&theme=midnight-purple)
+[![GitHub Streak](https://streak-stats.demolab.com?user=stanfordaniya&theme=dark&hide_border=true&border_radius=5.1&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanfordaniya&layout=compact&theme=midnight-purple)
 
